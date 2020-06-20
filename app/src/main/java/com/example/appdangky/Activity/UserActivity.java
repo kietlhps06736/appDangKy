@@ -70,7 +70,7 @@ public class UserActivity extends AppCompatActivity {
                                 DiaChi = jsonObject.getString("DiaChi");
                                 Nganh = jsonObject.getString("TenNganh");
 //                                HocKy = jsonObject.getString("HocKy");
-//
+//sdfsdfs
                                 tvId.setText(String.valueOf(IdSV));
                                 tvMssv.setText(MaSV);
                                 tvTenSV.setText(TenSinhVien);
